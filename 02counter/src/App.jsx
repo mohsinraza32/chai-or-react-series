@@ -13,7 +13,18 @@ function App() {
     // console.log("clicked" , counter);
     // counter = counter + 1
 
-    setCounter(counter + 1)
+      setCounter(counter + 1)
+
+    // setCounter(counter + 1)   // for interview question
+    // setCounter(counter + 1)
+    // setCounter(counter + 1)
+    // setCounter(counter + 1)
+         
+      
+    // setCounter(prevCounter => prevCounter + 1)   // for interview question
+    // setCounter(prevCounter => prevCounter + 1)
+    // setCounter(prevCounter => prevCounter + 1)
+    // setCounter(prevCounter => prevCounter + 1)
     
     }
     
